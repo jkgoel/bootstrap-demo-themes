@@ -1,9 +1,9 @@
 //overwrite default colors
 
-$theme-colors:(
+$theme-colors: (
     "primary": #36b38a,
-    "secondary": #1f1f1f
+    "secondary": #1f1f1f,
 );
 
 //import bootstrap
-@import "../bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
