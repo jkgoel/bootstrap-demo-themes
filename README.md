@@ -1,2 +1,3 @@
-# bootstrap-demo-themes
-This repository contains bootstrap 4 themes which I learnt from different sources  
+# bootstrap
+This repository contains some sample bootstarp themes.
+
